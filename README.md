@@ -1,6 +1,10 @@
 # Shopee-Code-League-Competition
 
 Team: Hakino-Matata
+# Team Members:
+## (1) Shivay Lamba
+## (2) Kshitij Jain
+## (3) Devang Sharma
 
 Web: https://careers.shopee.sg/codeleague/
 
